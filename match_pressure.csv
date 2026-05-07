@@ -1,0 +1,761 @@
+match_id,team,total_pressures
+265839,Barcelona,127
+265839,Sevilla,164
+265894,Barcelona,85
+265894,Málaga,146
+265944,Barcelona,106
+265944,Sporting Gijón,239
+265958,Barcelona,107
+265958,Espanyol,180
+266056,Barcelona,73
+266056,Eibar,221
+266106,Barcelona,86
+266106,Villarreal,177
+266149,Athletic Club,141
+266149,Barcelona,70
+266160,Barcelona,167
+266160,Levante UD,159
+266166,Atlético Madrid,246
+266166,Barcelona,126
+266236,Athletic Club,316
+266236,Barcelona,67
+266254,Barcelona,194
+266254,Celta Vigo,207
+266310,Barcelona,167
+266310,RC Deportivo La Coruña,188
+266424,Barcelona,113
+266424,Real Madrid,156
+266467,Barcelona,138
+266467,Celta Vigo,180
+266490,Barcelona,111
+266490,Levante UD,266
+266498,Barcelona,139
+266498,Getafe,209
+266557,Barcelona,146
+266557,Valencia,188
+266620,Barcelona,192
+266620,Granada,240
+266653,Barcelona,120
+266653,Rayo Vallecano,193
+266664,Barcelona,128
+266664,Real Sociedad,218
+266670,Barcelona,147
+266670,Espanyol,237
+266815,Barcelona,69
+266815,Sporting Gijón,253
+266885,Barcelona,81
+266885,Real Sociedad,204
+266961,Barcelona,147
+266961,RC Deportivo La Coruña,237
+266986,Barcelona,135
+266986,Real Betis,198
+267273,Barcelona,205
+267273,Las Palmas,138
+267274,Barcelona,116
+267274,Valencia,232
+267327,Barcelona,130
+267327,Real Betis,172
+267422,Barcelona,64
+267422,Málaga,175
+267506,Barcelona,136
+267506,Granada,136
+267533,Barcelona,81
+267533,Real Madrid,159
+267576,Atlético Madrid,213
+267576,Barcelona,124
+267611,Barcelona,137
+267611,Las Palmas,147
+3825562,Málaga,92
+3825562,Sevilla,146
+3825563,Atlético Madrid,156
+3825563,Las Palmas,163
+3825564,RC Deportivo La Coruña,137
+3825564,Real Sociedad,131
+3825565,Espanyol,209
+3825565,Getafe,120
+3825566,Rayo Vallecano,175
+3825566,Valencia,242
+3825567,Real Madrid,66
+3825567,Sporting Gijón,191
+3825568,Real Betis,85
+3825568,Villarreal,128
+3825569,Celta Vigo,106
+3825569,Levante UD,125
+3825570,Eibar,198
+3825570,Granada,123
+3825571,Espanyol,121
+3825571,Villarreal,155
+3825572,Real Betis,125
+3825572,Real Madrid,104
+3825573,Real Sociedad,109
+3825573,Sporting Gijón,219
+3825574,Celta Vigo,216
+3825574,Rayo Vallecano,172
+3825575,Las Palmas,139
+3825575,Levante UD,185
+3825576,RC Deportivo La Coruña,166
+3825576,Valencia,145
+3825577,Getafe,93
+3825577,Granada,162
+3825578,Athletic Club,135
+3825578,Eibar,147
+3825579,Atlético Madrid,141
+3825579,Sevilla,96
+3825580,Levante UD,131
+3825580,Sevilla,139
+3825581,Espanyol,126
+3825581,Real Madrid,151
+3825582,Real Betis,164
+3825582,Real Sociedad,124
+3825583,Sporting Gijón,175
+3825583,Valencia,159
+3825584,Granada,117
+3825584,Villarreal,147
+3825585,Celta Vigo,158
+3825585,Las Palmas,91
+3825586,Eibar,202
+3825586,Málaga,142
+3825587,Athletic Club,145
+3825587,Getafe,149
+3825588,RC Deportivo La Coruña,174
+3825588,Rayo Vallecano,154
+3825589,Getafe,222
+3825589,Málaga,161
+3825590,Granada,202
+3825590,Real Madrid,148
+3825591,Real Betis,111
+3825591,Valencia,150
+3825592,Espanyol,124
+3825592,Real Sociedad,138
+3825593,Atlético Madrid,102
+3825593,Eibar,178
+3825594,Celta Vigo,155
+3825594,Sevilla,155
+3825595,Athletic Club,165
+3825595,Villarreal,136
+3825596,RC Deportivo La Coruña,125
+3825596,Sporting Gijón,153
+3825597,Las Palmas,171
+3825597,Rayo Vallecano,122
+3825598,Atlético Madrid,159
+3825598,Getafe,144
+3825599,Espanyol,165
+3825599,Valencia,157
+3825600,Málaga,93
+3825600,Villarreal,192
+3825601,Rayo Vallecano,122
+3825601,Sporting Gijón,178
+3825602,Athletic Club,154
+3825602,Real Madrid,93
+3825603,RC Deportivo La Coruña,176
+3825603,Real Betis,139
+3825604,Granada,130
+3825604,Valencia,143
+3825605,Rayo Vallecano,113
+3825605,Sevilla,166
+3825606,Málaga,119
+3825606,Real Madrid,62
+3825607,Atlético Madrid,172
+3825607,Villarreal,213
+3825608,Celta Vigo,146
+3825608,Eibar,171
+3825609,Athletic Club,183
+3825609,Real Sociedad,136
+3825610,Real Betis,145
+3825610,Sporting Gijón,135
+3825611,Espanyol,122
+3825611,RC Deportivo La Coruña,132
+3825612,Getafe,147
+3825612,Levante UD,119
+3825613,Celta Vigo,178
+3825613,Getafe,128
+3825614,Granada,158
+3825614,RC Deportivo La Coruña,148
+3825615,Espanyol,172
+3825615,Sporting Gijón,174
+3825616,Málaga,160
+3825616,Real Sociedad,126
+3825617,Barcelona,90
+3825617,Sevilla,195
+3825618,Eibar,221
+3825618,Las Palmas,144
+3825619,Levante UD,110
+3825619,Villarreal,130
+3825620,Rayo Vallecano,151
+3825620,Real Betis,172
+3825621,Atlético Madrid,171
+3825621,Real Madrid,138
+3825622,Athletic Club,101
+3825622,Valencia,109
+3825623,Málaga,155
+3825623,Valencia,228
+3825624,Eibar,166
+3825624,Sevilla,119
+3825625,Levante UD,121
+3825625,Real Madrid,116
+3825626,Espanyol,154
+3825626,Real Betis,159
+3825627,Barcelona,172
+3825627,Rayo Vallecano,163
+3825628,Getafe,96
+3825628,Las Palmas,144
+3825629,Celta Vigo,142
+3825629,Villarreal,114
+3825630,Athletic Club,113
+3825630,RC Deportivo La Coruña,154
+3825631,Atlético Madrid,182
+3825631,Real Sociedad,119
+3825632,Granada,136
+3825632,Sporting Gijón,111
+3825633,Espanyol,100
+3825633,Rayo Vallecano,82
+3825634,Granada,224
+3825634,Real Betis,156
+3825635,Celta Vigo,182
+3825635,Real Madrid,102
+3825636,Málaga,73
+3825636,RC Deportivo La Coruña,158
+3825637,Barcelona,109
+3825637,Eibar,145
+3825638,Atlético Madrid,144
+3825638,Valencia,177
+3825639,Las Palmas,143
+3825639,Villarreal,188
+3825640,Levante UD,121
+3825640,Real Sociedad,169
+3825641,Athletic Club,167
+3825641,Sporting Gijón,111
+3825642,Atlético Madrid,136
+3825642,RC Deportivo La Coruña,178
+3825643,Las Palmas,154
+3825643,Real Madrid,137
+3825644,Celta Vigo,153
+3825644,Real Sociedad,173
+3825645,Barcelona,133
+3825645,Getafe,138
+3825646,Sevilla,125
+3825646,Villarreal,95
+3825647,Levante UD,105
+3825647,Valencia,157
+3825648,Eibar,193
+3825648,Rayo Vallecano,144
+3825649,Málaga,97
+3825649,Sporting Gijón,140
+3825650,Athletic Club,148
+3825650,Real Betis,159
+3825651,Espanyol,120
+3825651,Granada,174
+3825652,Las Palmas,195
+3825652,Real Sociedad,90
+3825653,Eibar,157
+3825653,Getafe,127
+3825654,Celta Vigo,158
+3825654,Valencia,164
+3825655,Granada,102
+3825655,Rayo Vallecano,133
+3825656,Levante UD,133
+3825656,RC Deportivo La Coruña,97
+3825657,Málaga,156
+3825657,Real Betis,135
+3825658,Atlético Madrid,126
+3825658,Sporting Gijón,61
+3825659,Athletic Club,164
+3825659,Espanyol,125
+3825660,Barcelona,121
+3825660,Villarreal,122
+3825661,Real Madrid,108
+3825661,Sevilla,154
+3825662,Celta Vigo,146
+3825662,RC Deportivo La Coruña,177
+3825663,Espanyol,144
+3825663,Málaga,129
+3825664,Real Sociedad,127
+3825664,Sevilla,158
+3825665,Athletic Club,123
+3825665,Granada,105
+3825666,Atlético Madrid,170
+3825666,Real Betis,129
+3825667,Eibar,155
+3825667,Villarreal,112
+3825668,Levante UD,97
+3825668,Sporting Gijón,184
+3825669,Getafe,219
+3825669,Rayo Vallecano,159
+3825670,Levante UD,143
+3825670,Real Betis,122
+3825671,Celta Vigo,140
+3825671,Sporting Gijón,128
+3825672,Granada,120
+3825672,Málaga,80
+3825673,Las Palmas,83
+3825673,RC Deportivo La Coruña,119
+3825674,Atlético Madrid,105
+3825674,Espanyol,234
+3825675,Athletic Club,195
+3825675,Rayo Vallecano,119
+3825676,Getafe,179
+3825676,Villarreal,145
+3825677,Sevilla,134
+3825677,Valencia,150
+3825678,Eibar,179
+3825678,Real Madrid,143
+3825679,Celta Vigo,143
+3825679,Real Betis,131
+3825680,RC Deportivo La Coruña,155
+3825680,Sevilla,124
+3825681,Getafe,163
+3825681,Real Madrid,130
+3825682,Atlético Madrid,162
+3825682,Granada,144
+3825683,Eibar,192
+3825683,Real Sociedad,118
+3825684,Rayo Vallecano,135
+3825684,Villarreal,199
+3825685,Las Palmas,76
+3825685,Sporting Gijón,151
+3825686,Athletic Club,147
+3825686,Málaga,115
+3825687,Espanyol,118
+3825687,Levante UD,205
+3825688,Getafe,129
+3825688,Real Sociedad,133
+3825689,Celta Vigo,151
+3825689,Espanyol,182
+3825690,Las Palmas,105
+3825690,Real Betis,107
+3825691,Granada,174
+3825691,Levante UD,167
+3825692,Sevilla,144
+3825692,Sporting Gijón,131
+3825693,Athletic Club,176
+3825693,Atlético Madrid,135
+3825694,Eibar,91
+3825694,Valencia,165
+3825695,Real Madrid,143
+3825695,Villarreal,56
+3825696,Málaga,100
+3825696,Rayo Vallecano,145
+3825697,Getafe,182
+3825697,Valencia,161
+3825698,Eibar,129
+3825698,RC Deportivo La Coruña,87
+3825699,Real Betis,155
+3825699,Sevilla,136
+3825700,Rayo Vallecano,167
+3825700,Real Madrid,162
+3825701,Atlético Madrid,180
+3825701,Málaga,121
+3825702,Real Sociedad,132
+3825702,Villarreal,99
+3825703,Athletic Club,222
+3825703,Levante UD,183
+3825704,Celta Vigo,145
+3825704,Granada,144
+3825705,Eibar,190
+3825705,Sporting Gijón,116
+3825706,Athletic Club,264
+3825706,Celta Vigo,129
+3825707,Granada,172
+3825707,Las Palmas,76
+3825708,Levante UD,151
+3825708,Málaga,134
+3825709,Espanyol,113
+3825709,Sevilla,176
+3825710,Real Madrid,136
+3825710,Real Sociedad,179
+3825711,Atlético Madrid,158
+3825711,Rayo Vallecano,135
+3825712,Getafe,193
+3825712,RC Deportivo La Coruña,159
+3825713,Valencia,90
+3825713,Villarreal,129
+3825714,Atlético Madrid,137
+3825714,Levante UD,127
+3825715,Celta Vigo,112
+3825715,Málaga,149
+3825716,Rayo Vallecano,177
+3825716,Real Sociedad,109
+3825717,Granada,129
+3825717,Sevilla,79
+3825718,Real Madrid,105
+3825718,Valencia,138
+3825719,Athletic Club,203
+3825719,Las Palmas,132
+3825720,Eibar,151
+3825720,Real Betis,152
+3825721,RC Deportivo La Coruña,146
+3825721,Villarreal,79
+3825722,Getafe,128
+3825722,Sporting Gijón,118
+3825723,Levante UD,128
+3825723,Rayo Vallecano,158
+3825724,RC Deportivo La Coruña,94
+3825724,Real Madrid,122
+3825725,Getafe,173
+3825725,Real Betis,96
+3825726,Athletic Club,168
+3825726,Sevilla,155
+3825727,Eibar,127
+3825727,Espanyol,132
+3825728,Atlético Madrid,185
+3825728,Celta Vigo,193
+3825729,Sporting Gijón,161
+3825729,Villarreal,153
+3825730,Real Sociedad,128
+3825730,Valencia,161
+3825731,Las Palmas,167
+3825731,Málaga,208
+3825732,Celta Vigo,180
+3825732,Levante UD,168
+3825733,Málaga,157
+3825733,Sevilla,177
+3825734,RC Deportivo La Coruña,223
+3825734,Real Sociedad,183
+3825735,Real Betis,157
+3825735,Villarreal,155
+3825736,Rayo Vallecano,194
+3825736,Valencia,206
+3825737,Espanyol,124
+3825737,Getafe,185
+3825738,Atlético Madrid,201
+3825738,Las Palmas,111
+3825739,Real Madrid,122
+3825739,Sporting Gijón,203
+3825740,Eibar,118
+3825740,Granada,141
+3825741,Real Sociedad,138
+3825741,Sporting Gijón,163
+3825742,Getafe,199
+3825742,Granada,173
+3825743,Celta Vigo,124
+3825743,Rayo Vallecano,162
+3825744,Espanyol,152
+3825744,Villarreal,136
+3825745,RC Deportivo La Coruña,153
+3825745,Valencia,99
+3825746,Real Betis,222
+3825746,Real Madrid,111
+3825747,Athletic Club,150
+3825747,Eibar,125
+3825748,Atlético Madrid,106
+3825748,Sevilla,146
+3825749,Las Palmas,129
+3825749,Levante UD,138
+3825750,Real Betis,130
+3825750,Real Sociedad,234
+3825751,Athletic Club,203
+3825751,Getafe,146
+3825752,Eibar,71
+3825752,Málaga,131
+3825753,Granada,232
+3825753,Villarreal,127
+3825754,Celta Vigo,164
+3825754,Las Palmas,132
+3825755,Sporting Gijón,151
+3825755,Valencia,186
+3825756,Levante UD,116
+3825756,Sevilla,94
+3825757,Espanyol,216
+3825757,Real Madrid,147
+3825758,RC Deportivo La Coruña,129
+3825758,Rayo Vallecano,139
+3825759,Getafe,155
+3825759,Málaga,172
+3825760,Atlético Madrid,154
+3825760,Eibar,154
+3825761,Athletic Club,127
+3825761,Villarreal,214
+3825762,RC Deportivo La Coruña,127
+3825762,Sporting Gijón,129
+3825763,Las Palmas,159
+3825763,Rayo Vallecano,155
+3825764,Granada,222
+3825764,Real Madrid,163
+3825765,Celta Vigo,134
+3825765,Sevilla,129
+3825766,Real Betis,90
+3825766,Valencia,120
+3825767,Espanyol,115
+3825767,Real Sociedad,183
+3825768,Rayo Vallecano,130
+3825768,Sporting Gijón,168
+3825769,Málaga,144
+3825769,Villarreal,160
+3825770,Athletic Club,166
+3825770,Real Madrid,143
+3825771,RC Deportivo La Coruña,167
+3825771,Real Betis,112
+3825772,Espanyol,103
+3825772,Valencia,120
+3825773,Eibar,156
+3825773,Levante UD,121
+3825774,Atlético Madrid,213
+3825774,Getafe,210
+3825775,Granada,137
+3825775,Real Sociedad,166
+3825776,Las Palmas,139
+3825776,Sevilla,147
+3825777,Getafe,184
+3825777,Levante UD,105
+3825778,Real Betis,167
+3825778,Sporting Gijón,129
+3825779,Celta Vigo,95
+3825779,Eibar,166
+3825780,Espanyol,151
+3825780,RC Deportivo La Coruña,102
+3825781,Rayo Vallecano,107
+3825781,Sevilla,131
+3825782,Granada,126
+3825782,Valencia,219
+3825783,Athletic Club,137
+3825783,Real Sociedad,126
+3825784,Atlético Madrid,173
+3825784,Villarreal,166
+3825785,Málaga,128
+3825785,Real Madrid,126
+3825786,Eibar,159
+3825786,Las Palmas,168
+3825787,Atlético Madrid,218
+3825787,Real Madrid,178
+3825788,Celta Vigo,158
+3825788,Getafe,159
+3825789,Málaga,161
+3825789,Real Sociedad,144
+3825790,Espanyol,140
+3825790,Sporting Gijón,106
+3825791,Rayo Vallecano,132
+3825791,Real Betis,180
+3825792,Granada,148
+3825792,RC Deportivo La Coruña,123
+3825793,Athletic Club,130
+3825793,Valencia,181
+3825794,Levante UD,140
+3825794,Villarreal,147
+3825795,Atlético Madrid,288
+3825795,Real Sociedad,222
+3825796,Getafe,165
+3825796,Las Palmas,101
+3825797,Athletic Club,157
+3825797,RC Deportivo La Coruña,192
+3825798,Levante UD,153
+3825798,Real Madrid,160
+3825799,Málaga,159
+3825799,Valencia,187
+3825800,Celta Vigo,146
+3825800,Villarreal,133
+3825801,Eibar,166
+3825801,Sevilla,128
+3825802,Espanyol,160
+3825802,Real Betis,165
+3825803,Granada,136
+3825803,Sporting Gijón,142
+3825804,Málaga,145
+3825804,RC Deportivo La Coruña,109
+3825805,Las Palmas,185
+3825805,Villarreal,140
+3825806,Celta Vigo,195
+3825806,Real Madrid,149
+3825807,Atlético Madrid,160
+3825807,Valencia,154
+3825808,Athletic Club,169
+3825808,Sporting Gijón,158
+3825809,Granada,126
+3825809,Real Betis,154
+3825810,Levante UD,139
+3825810,Real Sociedad,155
+3825811,Espanyol,172
+3825811,Rayo Vallecano,132
+3825812,Málaga,118
+3825812,Sporting Gijón,149
+3825813,Atlético Madrid,135
+3825813,RC Deportivo La Coruña,163
+3825814,Celta Vigo,185
+3825814,Real Sociedad,139
+3825815,Levante UD,161
+3825815,Valencia,167
+3825816,Sevilla,146
+3825816,Villarreal,123
+3825817,Eibar,151
+3825817,Getafe,187
+3825818,Las Palmas,143
+3825818,Real Sociedad,132
+3825819,Celta Vigo,165
+3825819,Valencia,222
+3825820,Real Madrid,126
+3825820,Sevilla,154
+3825821,Athletic Club,149
+3825821,Espanyol,153
+3825822,Las Palmas,151
+3825822,Valencia,328
+3825823,Real Sociedad,174
+3825823,Sevilla,119
+3825824,Eibar,196
+3825824,Villarreal,163
+3825825,Levante UD,173
+3825825,Sporting Gijón,105
+3825826,Granada,156
+3825826,Málaga,126
+3825827,Levante UD,158
+3825827,Real Betis,134
+3825828,Atlético Madrid,86
+3825828,Espanyol,161
+3825829,Athletic Club,179
+3825829,Rayo Vallecano,174
+3825830,Getafe,181
+3825830,Villarreal,63
+3825831,Sevilla,153
+3825831,Valencia,150
+3825832,Celta Vigo,145
+3825832,Sporting Gijón,205
+3825833,Getafe,164
+3825833,Real Madrid,103
+3825834,Atlético Madrid,186
+3825834,Granada,107
+3825835,Athletic Club,162
+3825835,Málaga,137
+3825836,Rayo Vallecano,157
+3825836,Villarreal,178
+3825837,Las Palmas,116
+3825837,Real Betis,162
+3825838,Athletic Club,164
+3825838,Atlético Madrid,151
+3825839,Sevilla,99
+3825839,Sporting Gijón,147
+3825840,Eibar,176
+3825840,Valencia,161
+3825841,Getafe,181
+3825841,Real Sociedad,153
+3825842,Athletic Club,106
+3825842,Levante UD,110
+3825843,Málaga,145
+3825843,Rayo Vallecano,184
+3825844,Athletic Club,193
+3825844,Real Betis,148
+3825845,Espanyol,157
+3825845,Sevilla,131
+3825846,RC Deportivo La Coruña,147
+3825846,Real Madrid,169
+3825847,Eibar,243
+3825847,RC Deportivo La Coruña,225
+3825848,Eibar,164
+3825848,Levante UD,127
+3825849,Real Sociedad,181
+3825849,Valencia,191
+3825850,Celta Vigo,126
+3825850,Málaga,137
+3825851,RC Deportivo La Coruña,138
+3825851,Villarreal,106
+3825852,Las Palmas,160
+3825852,Sporting Gijón,232
+3825853,Granada,175
+3825853,Sevilla,146
+3825854,Eibar,126
+3825854,Sporting Gijón,171
+3825855,Levante UD,125
+3825855,Málaga,121
+3825856,Eibar,187
+3825856,Real Madrid,148
+3825857,Espanyol,119
+3825857,Levante UD,109
+3825858,Eibar,145
+3825858,Rayo Vallecano,107
+3825859,Granada,159
+3825859,Las Palmas,120
+3825860,Atlético Madrid,191
+3825860,Levante UD,154
+3825861,Rayo Vallecano,140
+3825861,Real Sociedad,189
+3825862,Celta Vigo,175
+3825862,Espanyol,221
+3825863,Las Palmas,93
+3825863,RC Deportivo La Coruña,165
+3825864,Real Madrid,155
+3825864,Real Sociedad,167
+3825865,Getafe,149
+3825865,Sporting Gijón,181
+3825866,Athletic Club,183
+3825866,Las Palmas,162
+3825867,Getafe,152
+3825867,Sevilla,171
+3825868,Celta Vigo,165
+3825868,Granada,146
+3825869,Athletic Club,150
+3825869,Sevilla,157
+3825870,Athletic Club,146
+3825870,Celta Vigo,123
+3825871,Espanyol,282
+3825871,Las Palmas,171
+3825872,Atlético Madrid,183
+3825872,Real Betis,159
+3825873,Valencia,178
+3825873,Villarreal,151
+3825874,Getafe,148
+3825874,Sevilla,84
+3825875,Real Sociedad,154
+3825875,Villarreal,154
+3825876,Getafe,157
+3825876,Real Betis,141
+3825877,Athletic Club,142
+3825877,Granada,188
+3825878,Atlético Madrid,176
+3825878,Rayo Vallecano,213
+3825879,Las Palmas,158
+3825879,Real Madrid,162
+3825880,Levante UD,178
+3825880,RC Deportivo La Coruña,159
+3825881,Espanyol,123
+3825881,Granada,116
+3825882,Atlético Madrid,138
+3825882,Celta Vigo,179
+3825883,Las Palmas,104
+3825883,Málaga,151
+3825884,Real Betis,132
+3825884,Sevilla,175
+3825885,Getafe,164
+3825885,Rayo Vallecano,159
+3825886,Rayo Vallecano,228
+3825886,Real Madrid,131
+3825887,Granada,150
+3825887,Rayo Vallecano,113
+3825888,Las Palmas,149
+3825888,Valencia,237
+3825889,Celta Vigo,158
+3825889,Real Betis,179
+3825890,Atlético Madrid,192
+3825890,Málaga,148
+3825891,Espanyol,182
+3825891,Las Palmas,136
+3825892,Granada,104
+3825892,Real Sociedad,138
+3825893,Real Madrid,94
+3825893,Villarreal,182
+3825894,Getafe,185
+3825894,RC Deportivo La Coruña,165
+3825895,Las Palmas,158
+3825895,Sevilla,118
+3825896,Granada,113
+3825896,Levante UD,92
+3825897,Eibar,175
+3825897,Real Sociedad,135
+3825898,Celta Vigo,119
+3825898,RC Deportivo La Coruña,145
+3825899,Getafe,172
+3825899,Valencia,176
+3825900,Sporting Gijón,156
+3825900,Villarreal,104
+3825901,Real Madrid,148
+3825901,Valencia,147
+3825902,Levante UD,153
+3825902,Rayo Vallecano,160
+3825903,Málaga,221
+3825903,Real Betis,163
+3825904,Eibar,183
+3825904,Real Betis,184
+3825905,Espanyol,163
+3825905,Málaga,150
+3825906,RC Deportivo La Coruña,123
+3825906,Sevilla,137
+3825907,Atlético Madrid,169
+3825907,Sporting Gijón,158
+3825908,Eibar,173
+3825908,Espanyol,135
